@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: k9b9.SpringMultipartRelated.TestApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.257 s - in k9b9.SpringMultipartRelated.TestApplicationTests
