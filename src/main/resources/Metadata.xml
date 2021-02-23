@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Common>
+ <faxNumber>13239786068</faxNumber>
+ <recipientName>Bhawna Ahuja</recipientName>
+ <addCoverSheet>true</addCoverSheet>
+ <UseHighQuality />
+ <senderName>Test Sender</senderName>
+ <SendingUser>epicsys</SendingUser>
+ <coverSheetNotes>This is a test fax.</coverSheetNotes>
+ <ScenarioID>1</ScenarioID>
+ <ScenarioName>Printing Test Page</ScenarioName>
+ <EpicUserID>12345</EpicUserID>
+ <EpicUserName>USER, PRINTER</EpicUserName>
+ <UserAccount />
+ <UserDomain />
+ <EpicVersion>0</EpicVersion>
+ <JobID>8EEA79BBD77C49DE828A554268683AA4</JobID>
+ <EnvironmentName>idecur</EnvironmentName>
+ <StatusUpdateURL>
+ http://responseendpoint:55001/api/UpdatePrintJobStatus
+ </StatusUpdateURL>
+ <Attachments>
+ <Attachment ID="1">8EEA79BBD77C49DE828A554268683AA4.pdf</Attachment>
+ <Attachment ID="2">Supplemental Data _g5jt1w5pdqn.pdf</Attachment>
+ </Attachments>
+ </Common>
+ 
+ <Advanced>
+ <Data StringKey="NoteID" NumericKey="4">123456789</Data>
+ </Advanced>
+ <Extensible>
+ <Data Key="customValue">Testing</Data>
+ </Extensible>
+ 
+</Metadata>

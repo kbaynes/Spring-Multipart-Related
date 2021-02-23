@@ -12,4 +12,11 @@ Reference:
 
 https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/http/converter/FormHttpMessageConverter.html
 
+## Testing .NET
 
+Install .NET Core SDK 5
+run `dotnet add package System.Net.Http`
+Run the Java application in debug mode (should listen on 8080)
+Run `dotenet run` to run the Program.cs file which will post a request to the local server
+
+The parser code in TestController is terrible, but I didn't have time to clean it up. It writes bad files. It just needs to be debugged a bit.
